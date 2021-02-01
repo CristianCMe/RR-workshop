@@ -2,7 +2,7 @@
 
 **Name of the student:** Cristian Caceres<br>
 **Date:** 1/02/2021   <br>
-**Course:** Add your cursus <br>
+**Course:** ENSGSI-CI15 <br>
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
