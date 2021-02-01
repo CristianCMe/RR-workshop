@@ -1,7 +1,7 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Add your name <br>
-**Date:** XX/XX/XXXX   <br>
+**Name of the student:** Cristian Caceres<br>
+**Date:** 1/02/2021   <br>
 **Course:** Add your cursus <br>
 
 ## Purpose
